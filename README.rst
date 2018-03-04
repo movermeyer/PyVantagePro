@@ -1,9 +1,9 @@
 PyVantagePro
 ============
 
-.. image:: https://pypip.in/v/PyVantagePro/badge.png
+.. image:: https://img.shields.io/pypi/v/PyVantagePro.svg
    :target: https://crate.io/package/PyVantagePro
-.. image:: https://pypip.in/d/PyVantagePro/badge.png
+.. image:: https://img.shields.io/pypi/dm/PyVantagePro.svg
    :target: https://crate.io/packages/PyVantagePro
 .. image:: https://travis-ci.org/SalemHarrache/PyVantagePro.png?branch=master
    :target: https://travis-ci.org/SalemHarrache/PyVantagePro
